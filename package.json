@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/setheal/react-webpack4-pwa-boilerplate.git"
   },
   "author": "Maëlann Barciet",
   "license": "MIT",
