@@ -1,0 +1,10 @@
+{
+  "name": "RWPWAB",
+  "short_name": "RWPWAB",
+  "lang": "en",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "orientation": "portrait"
+}
